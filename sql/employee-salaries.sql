@@ -1,0 +1,1 @@
+SELECT name FROM employee WHERE salary > 2000 && months < 10;
