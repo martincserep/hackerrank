@@ -1,0 +1,1 @@
+SELECT ABS(MAX(population) - MIN(population)) FROM city;
